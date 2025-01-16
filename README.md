@@ -1,11 +1,9 @@
-# Hello!
+# 👋 Hi there!
 
-Welcome to my GitHub profile!
+Thanks for stopping by!
 
 **About Me:**
 
-- 💻 Coding enthusiast
-- 📚 Lifelong learner
-- 🎨 Creating and experimenting
-
-Check out my projects and see what I've been up to!
+- 🛠️ Always looking for interesting challenges
+- 🚀 Exploring new ideas and improving my skills every day
+- 📫 Feel free to reach out: contact@rczajka.me
